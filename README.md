@@ -4,7 +4,7 @@ Hello, my name is Billy and this is a public repository of links to good things.
 
 To use this repository simply search at https://feedthegood.github.io/home. I hope something here makes you smile.
 
-Also, feel free to post something in the discussions area: 
+Also, feel free to post something in the discussions area: https://github.com/feedthegood/home/discussions
 
 Here’s to happiness and love,
 
